@@ -1,0 +1,7 @@
+body { font-family: Arial; background: #f5f5f5; }
+.container { width: 400px; margin: 40px auto; background: #fff; padding: 20px; border-radius: 10px; }
+input, textarea, select { width: 100%; padding: 10px; margin-bottom: 10px; }
+button { padding: 10px; width: 100%; background: royalblue; color: #fff; border: none; cursor: pointer; }
+.error { background: #ffdddd; padding: 10px; margin-bottom: 10px; }
+.success { background: #ddffdd; padding: 10px; margin-bottom: 10px; }
+.button { padding: 8px 12px; background: green; color: white; text-decoration: none; margin-right: 10px; }
